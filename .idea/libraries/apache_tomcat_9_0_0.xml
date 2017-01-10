@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-9.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/Business/Cargo/WEB-INF/src" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/Business/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/Business/WEB-INF/classes/com/zh" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/Business/WEB-INF/src" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/work/Catalina/localhost/Business" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/work/Catalina/localhost/MinShengYinHang" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/work/Catalina/localhost/Myweb" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/work/Catalina/localhost/ROOT" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-9.0.0.M10/work/Catalina/localhost/ZhongGuoPingAn" />
+    </SOURCES>
+  </library>
+</component>
